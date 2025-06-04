@@ -1,0 +1,10 @@
+body {
+  background-color: #F5F1E6; /* 整体的米白色*/
+  margin: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+
+.literature-tooltip {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.22);
+}
